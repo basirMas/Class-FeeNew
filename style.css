@@ -47,18 +47,18 @@ body {
 
 /* Orange Login */
 .login-btn {
-    background-color: orange;
+    background-color: #466ca6;
 }
 .login-btn:hover {
-    background-color: #e69500;
+    background-color: #d5e885;
 }
 
 /* Blau Sign In */
 .signin-btn {
-    background-color: #005bb5;
+    background-color: #469769;
 }
 .signin-btn:hover {
-    background-color: #004999;
+    background-color: #d5e885;
 }
 /* Container: Sidebar + Content */
 .container {

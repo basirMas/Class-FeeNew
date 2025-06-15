@@ -1,0 +1,68 @@
+/*main {*/
+/*    max-width: 400px;*/
+/*    margin: 2rem auto;*/
+/*    padding: 2rem;*/
+/*    background: #a8e8d5;*/
+/*    border-radius: 8px;*/
+/*    box-shadow: 0 2px 8px rgba(0,0,0,0.1);*/
+/*}*/
+
+/*input, button {*/
+/*    display: block;*/
+/*    width: 100%;*/
+/*    padding: 0.6rem;*/
+/*    margin-bottom: 1rem;*/
+/*    font-size: 1rem;*/
+/*}*/
+
+.login {
+    max-width: 300px;
+    margin: 12rem auto;
+    padding: 3rem;
+    background: #c0d7fd;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+
+    input, button {
+        display: block;
+        width: 100%;
+        padding: 0.6rem;
+        margin-bottom: 1rem;
+        font-size: 1rem;
+    }
+}
+
+.register {
+    max-width: 300px;
+    margin: 12rem auto;
+    padding: 3rem;
+    background: #a3f3c5;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+
+    input, button {
+        display: block;
+        width: 100%;
+        padding: 0.6rem;
+        margin-bottom: 1rem;
+        font-size: 1rem;
+    }
+}
+
+.button-dashboard {
+    display: inline-block;
+    text-align: center;
+    padding: 0.6rem 1.2rem;
+    background-color: transparent;
+    border: 2px solid #1f3c88;
+    color: #1f3c88;
+    border-radius: 5px;
+    text-decoration: none;
+    font-weight: bold;
+    transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.button-dashboard:hover {
+    background-color: #1f3c88;
+    color: white;
+}
